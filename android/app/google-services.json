@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1095499081927",
+    "project_id": "my-flow-track",
+    "storage_bucket": "my-flow-track.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095499081927:android:dd1080f32d87e2e58336e2",
+        "android_client_info": {
+          "package_name": "com.example.flowtrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_zx-_7KtW6MoAUxTZ7Nqa-smMEMQOcXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
